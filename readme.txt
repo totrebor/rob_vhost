@@ -1,0 +1,2 @@
+pyenv activate
+pyenv deactivate

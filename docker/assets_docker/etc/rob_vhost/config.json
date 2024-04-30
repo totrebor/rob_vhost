@@ -1,0 +1,12 @@
+{
+ "apache_hosting_usr_id": 0,
+ "apache_hosting_group_id": 0,
+ "apache_user_id": 0,
+ "apache_group_id": 0,
+ "log_usr_id": 0,
+ "log_group_id": 3,
+ "ftp_usr_id": 0,
+ "ftp_group_id": 3,
+ "simulation": false,
+ "docker": true
+}

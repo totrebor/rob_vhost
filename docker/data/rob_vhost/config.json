@@ -1,0 +1,12 @@
+{
+ "apache_hosting_usr_id": 2000,
+ "apache_hosting_group_id": 2001,
+ "apache_user_id": 2000,
+ "apache_group_id": 2001,
+ "log_usr_id": 0,
+ "log_group_id": 4,
+ "ftp_usr_id": 0,
+ "ftp_group_id": 0,
+ "docker": true,
+ "simulation": false
+}
